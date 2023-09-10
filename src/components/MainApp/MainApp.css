@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.app-header {
+  background-color: #112ca1;
+  overflow: visible;
+  width: 60%;
+  text-align: center;
+  color: white;
+  border-radius: 2rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
